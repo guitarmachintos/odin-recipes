@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: blanchedalmond;
+  min-height: 100vh;
+}
+
+.main-container{
+  width: 1000px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 10px 45px 45px;
+  background-color: aliceblue;
+  text-align: center;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+ol li{
+  border: 1px solid black;
+}
+
+.main-container a {
+  display: block;
+  margin: 0 0 30px;
+}
